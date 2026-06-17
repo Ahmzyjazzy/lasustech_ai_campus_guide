@@ -1,0 +1,6 @@
+{
+  "name": "LASUSTECH AI Campus Guide",
+  "description": "Navigate Lagos State University of Science and Technology with a high-contrast map, custom campus finder, step-by-step directions, and an interactive AI student assistant guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
